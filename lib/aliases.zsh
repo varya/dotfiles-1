@@ -83,7 +83,7 @@ fi
 # https://github.com/eza-community/eza
 if _exists eza; then
   unalias ls
-  alias ls='eza --icons --header --git --hyperlink=auto'
+  alias ls='eza --icons --header --git --hyperlink'
   alias lt='eza --icons --tree'
   unalias l
   alias l='ls -l'
