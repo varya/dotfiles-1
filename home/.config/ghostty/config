@@ -1,6 +1,6 @@
 # General settings
-theme = TokyoNight Night
-font-size = 16
+theme = light:Ayu Light,dark:Ayu
+font-size = 14
 font-family = "FiraCode Nerd Font Mono"
 cursor-style = block
 cursor-style-blink = true
