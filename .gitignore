@@ -9,6 +9,7 @@ home/.config/*
 
 # Exclude specific files from home/.config
 !home/.config/agents/AGENTS.md
+!home/.config/ghostty/config
 !home/.config/gh/config.yml
 !home/.config/ghostty/config
 !home/.config/husky/init.sh
